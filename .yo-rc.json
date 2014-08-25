@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "starting-with-web-development",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "KagisoM",
+    "githubRepository": "starting-with-web-development"
+  }
+}
