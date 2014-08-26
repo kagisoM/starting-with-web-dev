@@ -2,8 +2,8 @@
 <ul>
   <em>Fears</em>
   <ul>
-    <li>Not been good enough to cope for the position</li>
-    <li>Am i the right person for the job</li>
+    <li>Not being good enough to cope for the position</li>
+    <li>Am I the right person for the job</li>
   </ul>
 
   <em>Happiness</em>
