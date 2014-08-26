@@ -1,11 +1,11 @@
 ## Joining Telamenta
 <ul>
 
-  <em>Influence/Motivation</em>
+  <em>Influence / Motivation</em>
   <ul>
       <li>Goals and Aspirations</li>
       <li>Passion</li>
-      <li>Adversities/Struggles</li>
+      <li>Adversities / Struggles</li>
       <li>Family / Childhood </li>
   </ul>
   <em>Challenges</em>

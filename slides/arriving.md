@@ -1,4 +1,4 @@
-# Arriving in Gauteng Province
+### Arriving in Gauteng Province
 <ul>
 
   <em ##>2006 Upgraded at Star School in Braamfontein</em>

@@ -1,8 +1,8 @@
 # Who am I
 <ul>
 
-  <li>I am 27 years old male</li>
-  <li>I am a South African</li>
+  <li>I am 27 year old male</li>
+  <li>I am South African</li>
   <li>My mother tongue is Sepedi</li>
   <li>I come from Limpopo Province</li>
 

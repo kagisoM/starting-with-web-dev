@@ -8,7 +8,7 @@
             <li>Become part of the growth and success </li>
         </ul>
       <li> To become a reputable Drupal Developer</li>
-      <li>Establish myself into Web Development Industry </li>
+      <li>Establish myself in the Web Development Industry</li>
       <li>To enhance my knowledge and my technical skill</li>
     </ul>
 
@@ -20,6 +20,6 @@
         <ul>
           <li>Which are related to Maslow's hierarchy of needs</li>
         </ul>
-      <li>Become responsible and respectable in Web Development field</li>
+      <li>Become responsible and respectable in Web Development</li>
     </ul>
 </ul>

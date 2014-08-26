@@ -1,4 +1,4 @@
-# What I am planning to do
+## What I am planning to do
 <ul>
   <em>To build slides quarterly to track my progress in Web Development<em>
 </ul>
