@@ -2,7 +2,7 @@
   <ul>
     <li>Managing time</li>
     <li>Questions and stress on course</li>
-    <li>Money/budgeting issues</li>
+    <li>Money / budgeting issues</li>
     <li>Overcome homesickness and frequent calls home</li>
     <li>Roommate problems</li>
     <li>Academic stress</li>
