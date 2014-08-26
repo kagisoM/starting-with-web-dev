@@ -4,7 +4,6 @@
   <li>I am 27 years old male</li>
   <li>I am a South African</li>
   <li>My mother tongue is Sepedi</li>
-  <li>My mother tongue is Sepedi</li>
   <li>I come from Limpopo Province</li>
 
     <ul>
