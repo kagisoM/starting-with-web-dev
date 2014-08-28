@@ -1,11 +1,11 @@
-## Attending Drupal meet
+## Attending Drupal meet-up
 <ul>
 
   <li>What I learn</li>
   <ul>
     <li>Exposure to new skills on the market</li>
     <li>Improve interpersonal skills </li>
-    <li>Hear people's experiences</li>
+    <li>Listen to other people's experiences</li>
     </ul>
     <em>Challenges</em>
     <ul>
