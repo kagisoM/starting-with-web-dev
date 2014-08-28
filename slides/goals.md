@@ -19,7 +19,8 @@
       <li>To fulfil my psychological needs</li>
         <ul>
           <li>Which are related to Maslow's hierarchy of needs</li>
+          <a href="http://simplypsychology.org/maslow.html">Maslow's hierarchy of needs</a>
         </ul>
-      <li>Become responsible and respectable in Web Development</li>
+      <li>Become respectable in Web Development</li>
     </ul>
 </ul>

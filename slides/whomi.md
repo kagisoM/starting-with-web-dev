@@ -14,5 +14,4 @@
   <li>I am a brother to four siblings</li>
     <ul>
       <li>Three sisters and one brother</li>
-    </ul>
 </ul>

@@ -10,7 +10,7 @@
   </ul>
   <em>Challenges</em>
     <ul>
-      <li>Trying to learn everything at a go</li>
+      <li>Trying to learn everything in one go</li>
       <li>How to ask a question</li>
       <li>Learning how to Google</li>
     </ul>
