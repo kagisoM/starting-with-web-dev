@@ -14,4 +14,5 @@
   <li>I am a brother to four siblings</li>
     <ul>
       <li>Three sisters and one brother</li>
+      <img src="https://raw.githubusercontent.com/kagiso/kagiso-slider/img/Kagiso.jpg" alt="Kagiso's picture">
 </ul>
