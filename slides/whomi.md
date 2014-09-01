@@ -1,6 +1,5 @@
 # Who am I
 <ul>
-
   <li>I am 27 year old male</li>
   <li>I am South African</li>
   <li>My mother tongue is Sepedi</li>
@@ -14,5 +13,4 @@
   <li>I am a brother to four siblings</li>
     <ul>
       <li>Three sisters and one brother</li>
-      <img src="https://raw.githubusercontent.com/kagisom/starting-with-web-dev/img/Kagiso.jpg" alt="Kagiso's picture">
 </ul>
