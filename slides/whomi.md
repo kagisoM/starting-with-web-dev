@@ -4,7 +4,6 @@
   <li>I am South African</li>
   <li>My mother tongue is Sepedi</li>
   <li>I come from Limpopo Province</li>
-
     <ul>
        <li>In a Village called Bouwlast</li>
     </ul>
